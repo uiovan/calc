@@ -15,10 +15,10 @@
 # 4 - отчёты инструментов безопасности
 semgrep:  
 никаких уязвимостей  
-![image](https://github.com/user-attachments/assets/6288b52b-a4da-410e-9267-ec8eb21bd6df)
+![image](https://github.com/user-attachments/assets/6288b52b-a4da-410e-9267-ec8eb21bd6df)  
 trivy:  
-![image](https://github.com/user-attachments/assets/5aab5ddd-5fcc-4e2d-9a7c-8b7c3399e5cb)
+![image](https://github.com/user-attachments/assets/5aab5ddd-5fcc-4e2d-9a7c-8b7c3399e5cb)  
 уязвимость debian пакета, критичность - низкая  
 большинство уязвимотсей можно устранить обновлением пакетов (либо самой ОС, либо питона)  
-на скрине ниже показана уязвимость связанная с питоном, а именно надо обносить вермсию pip
+на скрине ниже показана уязвимость связанная с питоном, а именно надо обносить версию pip
 ![image](https://github.com/user-attachments/assets/928b403b-04bb-43dd-a236-2ad2b639dd82)
