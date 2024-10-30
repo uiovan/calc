@@ -15,7 +15,7 @@
 # 4 - отчёты инструментов безопасности
 ### semgrep:  
 никаких уязвимостей  
-![image](https://github.com/user-attachments/assets/30f18a5d-1bd6-4d91-b8d7-67d7a33d36a1)
+![image](https://github.com/user-attachments/assets/8e3601e4-c1f5-472a-842d-0f5d21f6270a)
 ### trivy:  
 ![image](https://github.com/user-attachments/assets/5aab5ddd-5fcc-4e2d-9a7c-8b7c3399e5cb)  
 уязвимость debian пакета, критичность - низкая 
