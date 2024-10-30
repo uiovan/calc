@@ -6,3 +6,5 @@
 ![image](https://github.com/user-attachments/assets/d6ec1648-d1ff-4d67-b77f-4b637bf7a7c8)
 # 2, 3 - создание пайплайна и внедрение инструментов безопасности
 Делали в GitLab  
+4 этапа:
+![image](https://github.com/user-attachments/assets/8a3fbffc-2e23-46d5-8408-27e6296df7a5)
